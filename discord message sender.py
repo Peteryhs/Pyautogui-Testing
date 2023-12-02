@@ -26,7 +26,7 @@ pyautogui.click(840, 1048)
 
 
 # List of messages
-messages = ["Hello", "How are you?", "I'm good, thanks!]
+messages = ["Hello", "How are you?", "I'm good, thanks!"]
 
 # Number of times to send a message
 num_messages = 10
